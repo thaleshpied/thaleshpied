@@ -1,4 +1,4 @@
-### Olá! 👋
+### Olá!
 - 🔭 Atualmente estou trabalhando na <a href="https://www.totvs.com">TOTVS S.A</a>
 - 🌱 Atualmente estou estudando C# 
 - 💬 Aberto para novos projetos em programação
