@@ -4,6 +4,7 @@
 - 📫 Para contato acesse <a href="https://www.linkedin.com/in/thales-henrique-b027aa206/">Meu Linkedin</a> ou via e-mail <address><a href="mailto:thaleshpied@gmail.com"> thaleshpied@gmail.com</a></address>
 - Amo Programação ✔
 - Amo tocar bateria 🥁🎶
+- Estudando Angular
 - Visite também meu perfil na plataforma <a href="https://cursos.alura.com.br/user/thales-piedade">Alura</a>
 
 <div>
