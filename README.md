@@ -1,9 +1,7 @@
 ### Olá, eu sou o Thales Henrique!
-- 🔭 Atualmente estou trabalhando na <a href="https://topandaimes.com.br">TOP ANDAIMES</a>
-- 💬 Aberto para novos projetos em programação
+- 💬 Aberto para novos projetos 
 - 📫 Para contato acesse <a href="https://www.linkedin.com/in/thales-henrique-b027aa206/">Meu Linkedin</a> ou via e-mail <address><a href="mailto:thaleshpied@gmail.com"> thaleshpied@gmail.com</a></address>
-- Amo Programação ✔
-- Amo tocar bateria 🥁🎶
+
 <!--- Página pessoal <a href="https://www.thcp.dev.br">THCP</a>-->
 
 <div>
