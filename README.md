@@ -1,6 +1,6 @@
 ### Olá, eu sou o Thales Henrique!
 - 💬 Aberto para novos projetos 
-- 📫 Para contato acesse <a href="https://www.linkedin.com/in/thales-henrique-b027aa206/">Meu Linkedin</a> ou via e-mail <address><a href="mailto:thaleshpied@gmail.com"> thaleshpied@gmail.com</a></address>
+- 📫 Para contato acesse <a href="https://www.linkedin.com/in/thales-henrique-b027aa206/">Meu Linkedin</a> ou via Whatsapp <address><a href="http://wa.me/5531991719163"> thaleshpied@gmail.com</a></address>
 
 <!--- Página pessoal <a href="https://www.thcp.dev.br">THCP</a>-->
 
