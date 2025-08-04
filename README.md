@@ -1,4 +1,4 @@
-###Hi, i'm Thales Henrique 
+### Hi, i'm Thales Henrique 
 
 From building internal tools in the construction and industrial sector to leading development of custom management systems, I’ve spent years improving business processes through code. Now, I’m expanding my skills, upgrading my stack, and aiming to join global teams that value code quality, autonomy, and real impact.
 A Brazilian Senior Software Engineer passionate about building scalable web applications and solving real-world problems with clean, maintainable code. I specialize in backend development with PHP and Laravel, while also working with modern frontend tools and beginning my journey with Python.
