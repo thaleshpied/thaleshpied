@@ -4,7 +4,7 @@ From building internal tools in the construction and industrial sector to leadin
 A Brazilian Senior Software Engineer passionate about building scalable web applications and solving real-world problems with clean, maintainable code. I specialize in backend development with PHP and Laravel, while also working with modern frontend tools and beginning my journey with Python.
 
 ### 🚩 Experienced with:
-PHP, Laravel, CodeIgniter, JavaScript, Bootstrap, jQuery, SQL Server, MySQL, HTML, CSS — and a growing interest in Python for automation and web services.
+PHP, Laravel, CodeIgniter, JavaScript, Bootstrap, jQuery, SQL Server, MySQL, HTML, CSS and a growing interest in Python for automation and web services.
 
 ### 🚩 Currently working with:
 Laravel and CodeIgniter 4, building internal systems and integrations for a logistics and construction company, with a strong focus on performance, clean architecture, and business rules.
